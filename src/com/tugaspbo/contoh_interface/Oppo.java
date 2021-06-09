@@ -1,8 +1,8 @@
 package com.tugaspbo.contoh_interface;
 
 /*
-Created at Thursday 11  March 2021
-Licensed @myaasiinh
+Created at Wednesday 09 June 2021
+Licensed @JustAo
 Tugas Pbo Materi Interface(24 Januari 2021).
  */
 
